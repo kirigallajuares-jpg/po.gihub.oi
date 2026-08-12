@@ -1,0 +1,39 @@
+img {
+    max-width: 90%;
+    height: auto;
+}
+
+img {
+    width: 90px;
+    height: 90px;
+}
+
+img {
+    width: 90%;
+    height: 20vh;
+    object-fit: cover;
+}
+
+div {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
+
+nav1 a {
+    color: white;
+    background: #003366;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+nav1 {
+    position: fixed;
+    background: #003366;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}

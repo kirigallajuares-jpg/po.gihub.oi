@@ -1,0 +1,59 @@
+header {
+    color: #fff;
+    padding: 15px;
+    text-align: center;
+}
+
+footer {
+    color: #f0eaea;
+    padding: 15px;
+    text-align: center;
+}
+
+nav a {
+    color: #fff;
+    margin: 10px;
+}
+
+main {
+    padding: 90px;
+}
+
+.img {
+    width: 390px;
+    height: 350px;
+    background: #ccc;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+}
+
+h1 {
+    text-align: center;
+    color: #05056ec5;
+
+}
+
+nav {
+    position: fixed;
+    top: 0;
+    left: 0;
+    width: 100%;
+    text-align: center;
+    padding: 15px;
+}
+
+nav a {
+    color: white;
+    text-decoration: none;
+    margin: 0 20px;
+}
+
+p {
+    font-family: Arial, sans-serif;
+    font-size: 20px;
+    font-weight: bold;
+    text-align: center;
+    color: #f6f3f3;
+}
